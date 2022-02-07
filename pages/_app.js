@@ -7,7 +7,7 @@ function MyApp({ Component, pageProps }) {
   return (
     <>
       <Head>
-        <title>Pika – Create beautiful screenshots quickly</title>
+        <title>Create a rounded image</title>
         <meta
           name="title"
           content="Pika – Create screenshots and browser mockups quickly"
